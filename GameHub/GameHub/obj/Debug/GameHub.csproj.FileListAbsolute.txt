@@ -1,0 +1,13 @@
+C:\Users\anach\OneDrive\Desktop\GameHub\GameHub\bin\Debug\GameHub.exe.config
+C:\Users\anach\OneDrive\Desktop\GameHub\GameHub\bin\Debug\GameHub.exe
+C:\Users\anach\OneDrive\Desktop\GameHub\GameHub\bin\Debug\GameHub.pdb
+C:\Users\anach\OneDrive\Desktop\GameHub\GameHub\obj\Debug\GameHub.csproj.AssemblyReference.cache
+C:\Users\anach\OneDrive\Desktop\GameHub\GameHub\obj\Debug\GameHub.Form1.resources
+C:\Users\anach\OneDrive\Desktop\GameHub\GameHub\obj\Debug\GameHub.Login.resources
+C:\Users\anach\OneDrive\Desktop\GameHub\GameHub\obj\Debug\GameHub.Properties.Resources.resources
+C:\Users\anach\OneDrive\Desktop\GameHub\GameHub\obj\Debug\GameHub.csproj.GenerateResource.cache
+C:\Users\anach\OneDrive\Desktop\GameHub\GameHub\obj\Debug\GameHub.csproj.CoreCompileInputs.cache
+C:\Users\anach\OneDrive\Desktop\GameHub\GameHub\obj\Debug\GameHub.exe
+C:\Users\anach\OneDrive\Desktop\GameHub\GameHub\obj\Debug\GameHub.pdb
+C:\Users\anach\OneDrive\Desktop\GameHub\GameHub\obj\Debug\GameHub.Signup.resources
+C:\Users\anach\OneDrive\Desktop\GameHub\GameHub\obj\Debug\GameHub.Game2048.resources
