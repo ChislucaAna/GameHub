@@ -46,12 +46,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Body.cs" />
     <Compile Include="Breakout.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Breakout.Designer.cs">
       <DependentUpon>Breakout.cs</DependentUpon>
     </Compile>
+    <Compile Include="Food.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -90,7 +92,7 @@
     <Compile Include="Space.Designer.cs">
       <DependentUpon>Space.cs</DependentUpon>
     </Compile>
-    <Compile Include="Tile.cs" />
+    <Compile Include="Rock.cs" />
     <Compile Include="User.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
@@ -113,6 +115,9 @@
     </Compile>
     <EmbeddedResource Include="Signup.resx">
       <DependentUpon>Signup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Snake.resx">
+      <DependentUpon>Snake.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>

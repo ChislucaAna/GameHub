@@ -68,36 +68,28 @@ namespace GameHub
         }
         private void pictureBox1_Click(object sender, EventArgs e)
         {
-            this.Hide();
-            Game2048 game = new Game2048();
-            game.ShowDialog();
-            this.Show();
-            show_highscore();
+            openForm(new Game2048());
         }
 
         private void pictureBox2_Click(object sender, EventArgs e)
         {
-            this.Hide();
-            Breakout breakout = new Breakout();
-            breakout.ShowDialog();
-            this.Show();
-            show_highscore();
+            openForm(new Breakout());
         }
 
         private void pictureBox3_Click(object sender, EventArgs e)
         {
-            this.Hide();
-            Snake snake = new Snake();
-            snake.ShowDialog();
-            this.Show();
-            show_highscore();
+            openForm(new Snake());
         }
 
         private void pictureBox4_Click(object sender, EventArgs e)
         {
+            openForm(new Space());
+        }
+
+        public void openForm(Form f)
+        {
             this.Hide();
-            Space space = new Space();
-            space.ShowDialog();
+            f.ShowDialog();
             this.Show();
             show_highscore();
         }

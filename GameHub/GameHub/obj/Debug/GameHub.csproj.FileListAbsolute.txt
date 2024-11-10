@@ -11,3 +11,4 @@ C:\Users\anach\OneDrive\Desktop\GameHub\GameHub\obj\Debug\GameHub.exe
 C:\Users\anach\OneDrive\Desktop\GameHub\GameHub\obj\Debug\GameHub.pdb
 C:\Users\anach\OneDrive\Desktop\GameHub\GameHub\obj\Debug\GameHub.Signup.resources
 C:\Users\anach\OneDrive\Desktop\GameHub\GameHub\obj\Debug\GameHub.Game2048.resources
+C:\Users\anach\OneDrive\Desktop\GameHub\GameHub\obj\Debug\GameHub.Snake.resources
